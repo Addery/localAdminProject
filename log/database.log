@@ -1,0 +1,809 @@
+2025-05-09 16:22:30,686 - ERROR - 配置文件 E:\07-code\tunnelProject\localAdminProject\utils\../config/database_config.ini 不存在.
+2025-05-09 16:23:37,921 - INFO - 数据库配置成功加载
+2025-05-09 16:23:40,314 - INFO - MySQL数据库连接成功
+2025-05-09 16:24:22,880 - INFO - 数据库配置成功加载
+2025-05-09 16:24:23,041 - INFO - MySQL数据库连接成功
+2025-05-09 16:25:36,312 - INFO - 数据库配置成功加载
+2025-05-09 16:25:36,467 - INFO - MySQL数据库连接成功
+2025-05-09 16:26:20,272 - INFO - 数据库配置成功加载
+2025-05-09 16:26:20,424 - INFO - MySQL数据库连接成功
+2025-05-09 16:43:02,020 - INFO - 数据库配置成功加载
+2025-05-09 16:43:02,193 - INFO - MySQL数据库连接成功
+2025-05-09 16:45:16,686 - INFO - 数据库配置成功加载
+2025-05-09 16:45:16,852 - INFO - MySQL数据库连接成功
+2025-05-09 16:45:27,761 - INFO - 数据库配置成功加载
+2025-05-09 16:45:27,940 - INFO - MySQL数据库连接成功
+2025-05-09 16:45:48,286 - INFO - 数据库配置成功加载
+2025-05-09 16:45:48,443 - INFO - MySQL数据库连接成功
+2025-05-09 16:46:00,615 - INFO - 数据库配置成功加载
+2025-05-09 16:46:00,767 - INFO - MySQL数据库连接成功
+2025-05-09 16:46:22,394 - INFO - 数据库配置成功加载
+2025-05-09 16:46:22,549 - INFO - MySQL数据库连接成功
+2025-05-09 16:47:21,845 - INFO - 数据库配置成功加载
+2025-05-09 16:47:21,997 - INFO - MySQL数据库连接成功
+2025-05-12 16:01:51,460 - INFO - 数据库配置成功加载
+2025-05-12 16:01:52,487 - INFO - MySQL数据库连接成功
+2025-05-12 16:02:07,359 - INFO - 数据库配置成功加载
+2025-05-12 16:02:07,516 - INFO - MySQL数据库连接成功
+2025-05-12 16:02:16,218 - INFO - 数据库配置成功加载
+2025-05-12 16:02:16,425 - INFO - MySQL数据库连接成功
+2025-05-12 16:02:30,543 - INFO - 数据库配置成功加载
+2025-05-12 16:02:30,697 - INFO - MySQL数据库连接成功
+2025-05-12 16:04:10,687 - INFO - 数据库配置成功加载
+2025-05-12 16:04:10,844 - INFO - MySQL数据库连接成功
+2025-05-12 16:04:25,578 - INFO - 数据库配置成功加载
+2025-05-12 16:04:25,770 - INFO - MySQL数据库连接成功
+2025-05-12 16:04:59,730 - INFO - 数据库配置成功加载
+2025-05-12 16:04:59,886 - INFO - MySQL数据库连接成功
+2025-05-12 16:05:07,206 - INFO - 数据库配置成功加载
+2025-05-12 16:05:07,361 - INFO - MySQL数据库连接成功
+2025-05-12 16:06:26,174 - INFO - 数据库配置成功加载
+2025-05-12 16:06:27,360 - INFO - MySQL数据库连接成功
+2025-05-12 16:08:05,003 - INFO - 数据库配置成功加载
+2025-05-12 16:08:05,186 - INFO - MySQL数据库连接成功
+2025-05-12 16:10:40,192 - INFO - 数据库配置成功加载
+2025-05-12 16:10:40,390 - INFO - MySQL数据库连接成功
+2025-05-12 16:12:27,784 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 16:12:27,785 - INFO - Socket connected: <socket.socket fd=2808, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 62615), raddr=('192.168.1.8', 5672)>
+2025-05-12 16:12:27,785 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020C2B4124C0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020C2B4124C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 16:12:27,787 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020C2B4124C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:12:27,787 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020C2B4124C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:12:27,787 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020C2B4124C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:12:27,789 - INFO - Created channel=1
+2025-05-12 16:39:22,565 - INFO - 数据库配置成功加载
+2025-05-12 16:39:22,722 - INFO - MySQL数据库连接成功
+2025-05-12 16:40:09,360 - INFO - 数据库配置成功加载
+2025-05-12 16:40:09,514 - INFO - MySQL数据库连接成功
+2025-05-12 16:40:18,936 - INFO - 数据库配置成功加载
+2025-05-12 16:40:19,088 - INFO - MySQL数据库连接成功
+2025-05-12 16:40:33,501 - INFO - 数据库配置成功加载
+2025-05-12 16:40:33,655 - INFO - MySQL数据库连接成功
+2025-05-12 16:41:18,601 - INFO - 数据库配置成功加载
+2025-05-12 16:41:18,755 - INFO - MySQL数据库连接成功
+2025-05-12 16:41:18,905 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 16:41:18,906 - INFO - Socket connected: <socket.socket fd=652, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 63224), raddr=('192.168.1.8', 5672)>
+2025-05-12 16:41:18,907 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022421001190>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022421001190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 16:41:18,911 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022421001190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:41:18,911 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022421001190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:41:18,912 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022421001190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:41:18,912 - INFO - Created channel=1
+2025-05-12 16:46:05,174 - INFO - 数据库配置成功加载
+2025-05-12 16:46:05,329 - INFO - MySQL数据库连接成功
+2025-05-12 16:46:05,477 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 16:46:05,477 - INFO - Socket connected: <socket.socket fd=2528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 63447), raddr=('192.168.1.8', 5672)>
+2025-05-12 16:46:05,477 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000240342E0190>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000240342E0190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 16:46:05,480 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000240342E0190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:46:05,480 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000240342E0190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:46:05,480 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000240342E0190> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:46:05,481 - INFO - Created channel=1
+2025-05-12 16:53:12,436 - INFO - 数据库配置成功加载
+2025-05-12 16:53:12,589 - INFO - MySQL数据库连接成功
+2025-05-12 16:57:36,255 - INFO - 数据库配置成功加载
+2025-05-12 16:57:36,407 - INFO - MySQL数据库连接成功
+2025-05-12 16:57:36,555 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 16:57:36,555 - INFO - Socket connected: <socket.socket fd=2924, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64099), raddr=('192.168.1.8', 5672)>
+2025-05-12 16:57:36,556 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001332A7C26A0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001332A7C26A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 16:57:36,559 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001332A7C26A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:57:36,559 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001332A7C26A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:57:36,559 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001332A7C26A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 16:57:36,559 - INFO - Created channel=1
+2025-05-12 16:57:36,597 - INFO - 192.168.1.8 - - [12/May/2025 16:57:36] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-12 17:04:59,121 - INFO - 数据库配置成功加载
+2025-05-12 17:04:59,277 - INFO - MySQL数据库连接成功
+2025-05-12 17:04:59,424 - INFO - 192.168.1.8 - - [12/May/2025 17:04:59] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-12 17:23:29,171 - INFO - 数据库配置成功加载
+2025-05-12 17:23:29,353 - INFO - MySQL数据库连接成功
+2025-05-12 17:24:24,861 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 17:24:24,861 - INFO - Socket connected: <socket.socket fd=2992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64676), raddr=('192.168.1.8', 5672)>
+2025-05-12 17:24:24,862 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001C2BE5F2520>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001C2BE5F2520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 17:24:24,865 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001C2BE5F2520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:24:24,865 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001C2BE5F2520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:24:24,865 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001C2BE5F2520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:24:24,865 - INFO - Created channel=1
+2025-05-12 17:25:16,999 - INFO - 数据库配置成功加载
+2025-05-12 17:25:17,154 - INFO - MySQL数据库连接成功
+2025-05-12 17:25:17,301 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 17:25:17,301 - INFO - Socket connected: <socket.socket fd=1480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64693), raddr=('192.168.1.8', 5672)>
+2025-05-12 17:25:17,302 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020E11383250>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020E11383250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 17:25:17,305 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020E11383250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:25:17,305 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020E11383250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:25:17,305 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000020E11383250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:25:17,305 - INFO - Created channel=1
+2025-05-12 17:25:17,343 - INFO - 192.168.1.8 - - [12/May/2025 17:25:17] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-12 17:25:42,126 - INFO - 数据库配置成功加载
+2025-05-12 17:25:42,281 - INFO - MySQL数据库连接成功
+2025-05-12 17:25:42,427 - INFO - 192.168.1.8 - - [12/May/2025 17:25:42] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-12 17:25:50,145 - INFO - 数据库配置成功加载
+2025-05-12 17:25:50,300 - INFO - MySQL数据库连接成功
+2025-05-12 17:25:50,414 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 17:25:50,415 - INFO - Socket connected: <socket.socket fd=2668, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64724), raddr=('192.168.1.8', 5672)>
+2025-05-12 17:25:50,416 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001784FD50670>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001784FD50670> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 17:25:50,419 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001784FD50670> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:25:50,419 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001784FD50670> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:25:50,419 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001784FD50670> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:25:50,419 - INFO - Created channel=1
+2025-05-12 17:25:50,457 - INFO - 192.168.1.8 - - [12/May/2025 17:25:50] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-12 17:31:24,177 - INFO - 数据库配置成功加载
+2025-05-12 17:31:24,335 - INFO - MySQL数据库连接成功
+2025-05-12 17:31:24,482 - INFO - 192.168.1.8 - - [12/May/2025 17:31:24] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-12 17:32:34,100 - INFO - 数据库配置成功加载
+2025-05-12 17:32:34,250 - INFO - MySQL数据库连接成功
+2025-05-12 17:32:34,398 - INFO - 192.168.1.8 - - [12/May/2025 17:32:34] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-12 17:33:39,949 - INFO - 数据库配置成功加载
+2025-05-12 17:33:40,119 - INFO - MySQL数据库连接成功
+2025-05-12 17:33:40,268 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 17:33:40,269 - INFO - Socket connected: <socket.socket fd=1080, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64940), raddr=('192.168.1.8', 5672)>
+2025-05-12 17:33:40,270 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000187167406A0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000187167406A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 17:33:40,273 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000187167406A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:33:40,273 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000187167406A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:33:40,274 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000187167406A0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:33:40,274 - INFO - Created channel=1
+2025-05-12 17:33:40,314 - INFO - 192.168.1.8 - - [12/May/2025 17:33:40] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-12 17:45:10,903 - INFO - 数据库配置成功加载
+2025-05-12 17:45:11,053 - INFO - MySQL数据库连接成功
+2025-05-12 17:45:11,165 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-12 17:45:11,166 - INFO - Socket connected: <socket.socket fd=2596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65260), raddr=('192.168.1.8', 5672)>
+2025-05-12 17:45:11,167 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000028809119760>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000028809119760> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-12 17:45:11,172 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000028809119760> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:45:11,172 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000028809119760> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:45:11,172 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000028809119760> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-12 17:45:11,173 - INFO - Created channel=1
+2025-05-12 17:45:11,211 - INFO - 192.168.1.8 - - [12/May/2025 17:45:11] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-13 15:12:55,592 - INFO - 数据库配置成功加载
+2025-05-13 15:12:55,792 - INFO - MySQL数据库连接成功
+2025-05-13 15:12:55,945 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:12:55,945 - INFO - Socket connected: <socket.socket fd=2704, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64944), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:12:55,945 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB3C280>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB3C280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:12:55,987 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB3C280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:12:55,987 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB3C280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:12:55,987 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB3C280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:12:55,987 - INFO - Created channel=1
+2025-05-13 15:12:56,071 - INFO - 192.168.1.8 - - [13/May/2025 15:12:56] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 15:14:10,643 - INFO - 数据库配置成功加载
+2025-05-13 15:14:10,797 - INFO - MySQL数据库连接成功
+2025-05-13 15:14:56,836 - INFO - 数据库配置成功加载
+2025-05-13 15:14:56,986 - INFO - MySQL数据库连接成功
+2025-05-13 15:14:57,140 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:14:57,141 - INFO - Socket connected: <socket.socket fd=2860, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 64997), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:14:57,142 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77340>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:14:57,145 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:14:57,146 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:14:57,146 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:14:57,146 - INFO - Created channel=1
+2025-05-13 15:14:57,185 - INFO - 192.168.1.8 - - [13/May/2025 15:14:57] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 15:26:12,192 - INFO - 数据库配置成功加载
+2025-05-13 15:26:12,397 - INFO - MySQL数据库连接成功
+2025-05-13 15:26:44,933 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:26:44,933 - INFO - Socket connected: <socket.socket fd=3368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65351), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:26:44,934 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023047BC78B0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023047BC78B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:26:44,937 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023047BC78B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:26:44,937 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023047BC78B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:26:44,937 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023047BC78B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:26:44,937 - INFO - Created channel=1
+2025-05-13 15:28:16,803 - INFO - 数据库配置成功加载
+2025-05-13 15:28:16,953 - INFO - MySQL数据库连接成功
+2025-05-13 15:28:17,110 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:28:17,111 - INFO - Socket connected: <socket.socket fd=2852, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65403), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:28:17,111 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB0F7F0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB0F7F0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:28:17,115 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB0F7F0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:17,115 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB0F7F0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:17,115 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB0F7F0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:17,116 - INFO - Created channel=1
+2025-05-13 15:28:17,154 - INFO - 192.168.1.8 - - [13/May/2025 15:28:17] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 15:28:30,343 - INFO - 数据库配置成功加载
+2025-05-13 15:28:30,493 - INFO - MySQL数据库连接成功
+2025-05-13 15:28:30,651 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:28:30,652 - INFO - Socket connected: <socket.socket fd=2816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65426), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:28:30,652 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77C40>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:28:30,655 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:30,655 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:30,655 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB77C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:30,656 - INFO - Created channel=1
+2025-05-13 15:28:30,729 - INFO - 192.168.1.8 - - [13/May/2025 15:28:30] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 15:28:38,497 - INFO - 数据库配置成功加载
+2025-05-13 15:28:38,646 - INFO - MySQL数据库连接成功
+2025-05-13 15:28:38,801 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:28:38,802 - INFO - Socket connected: <socket.socket fd=1544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65441), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:28:38,802 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB82700>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB82700> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:28:38,806 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB82700> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:38,806 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB82700> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:38,806 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001E1AEB82700> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:38,806 - INFO - Created channel=1
+2025-05-13 15:28:38,844 - INFO - 192.168.1.8 - - [13/May/2025 15:28:38] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 15:28:43,537 - INFO - 数据库配置成功加载
+2025-05-13 15:28:43,691 - INFO - MySQL数据库连接成功
+2025-05-13 15:28:43,842 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:28:43,842 - INFO - Socket connected: <socket.socket fd=2792, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65450), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:28:43,842 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002829D66EF70>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002829D66EF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:28:43,845 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002829D66EF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:43,845 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002829D66EF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:43,845 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002829D66EF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:43,845 - INFO - Created channel=1
+2025-05-13 15:28:57,887 - INFO - 数据库配置成功加载
+2025-05-13 15:28:58,039 - INFO - MySQL数据库连接成功
+2025-05-13 15:28:58,192 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:28:58,192 - INFO - Socket connected: <socket.socket fd=2492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65469), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:28:58,193 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FD2B0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FD2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:28:58,195 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FD2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:58,195 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FD2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:58,196 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FD2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:28:58,196 - INFO - Created channel=1
+2025-05-13 15:28:58,233 - INFO - 192.168.1.8 - - [13/May/2025 15:28:58] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 15:29:05,179 - INFO - 数据库配置成功加载
+2025-05-13 15:29:05,335 - INFO - MySQL数据库连接成功
+2025-05-13 15:29:05,490 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:29:05,490 - INFO - Socket connected: <socket.socket fd=1936, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65481), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:29:05,491 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C8363D0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C8363D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:29:05,493 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C8363D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:29:05,493 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C8363D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:29:05,493 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C8363D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:29:05,493 - INFO - Created channel=1
+2025-05-13 15:29:05,566 - INFO - 192.168.1.8 - - [13/May/2025 15:29:05] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 15:29:19,756 - INFO - 数据库配置成功加载
+2025-05-13 15:29:19,909 - INFO - MySQL数据库连接成功
+2025-05-13 15:29:20,071 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:29:20,071 - INFO - Socket connected: <socket.socket fd=2672, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65502), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:29:20,071 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FDF40>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FDF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:29:20,074 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FDF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:29:20,074 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FDF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:29:20,074 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C7FDF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:29:20,074 - INFO - Created channel=1
+2025-05-13 15:29:20,150 - INFO - 192.168.1.8 - - [13/May/2025 15:29:20] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-13 15:30:15,330 - INFO - 数据库配置成功加载
+2025-05-13 15:30:15,481 - INFO - MySQL数据库连接成功
+2025-05-13 15:30:15,636 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:30:15,637 - INFO - Socket connected: <socket.socket fd=868, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 49199), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:30:15,637 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C836BB0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C836BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:30:15,640 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C836BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:30:15,640 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C836BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:30:15,640 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C836BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:30:15,641 - INFO - Created channel=1
+2025-05-13 15:30:15,678 - INFO - 192.168.1.8 - - [13/May/2025 15:30:15] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-13 15:30:43,800 - INFO - 数据库配置成功加载
+2025-05-13 15:30:43,954 - INFO - MySQL数据库连接成功
+2025-05-13 15:30:44,110 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 15:30:44,111 - INFO - Socket connected: <socket.socket fd=2760, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 49226), raddr=('192.168.1.8', 5672)>
+2025-05-13 15:30:44,112 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C842730>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C842730> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 15:30:44,117 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C842730> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:30:44,118 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C842730> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:30:44,118 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002715C842730> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 15:30:44,118 - INFO - Created channel=1
+2025-05-13 15:30:44,156 - INFO - 192.168.1.8 - - [13/May/2025 15:30:44] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 17:53:32,659 - INFO - 数据库配置成功加载
+2025-05-13 17:53:32,878 - INFO - MySQL数据库连接成功
+2025-05-13 17:53:33,035 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 17:53:33,036 - INFO - Socket connected: <socket.socket fd=2428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53160), raddr=('192.168.1.8', 5672)>
+2025-05-13 17:53:33,037 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E3D2B0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E3D2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 17:53:33,043 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E3D2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 17:53:33,043 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E3D2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 17:53:33,043 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E3D2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 17:53:33,044 - INFO - Created channel=1
+2025-05-13 17:53:33,119 - INFO - 192.168.1.8 - - [13/May/2025 17:53:33] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 17:53:54,069 - INFO - 数据库配置成功加载
+2025-05-13 17:53:54,219 - INFO - MySQL数据库连接成功
+2025-05-13 17:53:54,372 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 17:53:54,372 - INFO - Socket connected: <socket.socket fd=2452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53172), raddr=('192.168.1.8', 5672)>
+2025-05-13 17:53:54,373 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E75220>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E75220> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 17:53:54,376 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E75220> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 17:53:54,376 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E75220> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 17:53:54,376 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001CF35E75220> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 17:53:54,376 - INFO - Created channel=1
+2025-05-13 17:53:54,413 - INFO - 192.168.1.8 - - [13/May/2025 17:53:54] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:12:23,806 - INFO - 数据库配置成功加载
+2025-05-13 18:12:24,026 - INFO - MySQL数据库连接成功
+2025-05-13 18:12:24,181 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:12:24,181 - INFO - Socket connected: <socket.socket fd=3136, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53622), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:12:24,182 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB723B1C0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB723B1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:12:24,184 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB723B1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:12:24,184 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB723B1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:12:24,184 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB723B1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:12:24,185 - INFO - Created channel=1
+2025-05-13 18:12:24,260 - INFO - 192.168.1.8 - - [13/May/2025 18:12:24] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 18:12:42,521 - INFO - 数据库配置成功加载
+2025-05-13 18:12:42,673 - INFO - MySQL数据库连接成功
+2025-05-13 18:12:42,842 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:12:42,844 - INFO - Socket connected: <socket.socket fd=3204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53635), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:12:42,844 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB7276280>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB7276280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:12:42,849 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB7276280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:12:42,849 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB7276280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:12:42,849 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001BAB7276280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:12:42,850 - INFO - Created channel=1
+2025-05-13 18:12:42,924 - INFO - 192.168.1.8 - - [13/May/2025 18:12:42] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-13 18:13:45,490 - INFO - 数据库配置成功加载
+2025-05-13 18:13:45,672 - INFO - MySQL数据库连接成功
+2025-05-13 18:13:45,934 - INFO - 192.168.1.8 - - [13/May/2025 18:13:45] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:15:58,065 - INFO - 数据库配置成功加载
+2025-05-13 18:15:59,297 - INFO - MySQL数据库连接成功
+2025-05-13 18:15:59,454 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:15:59,454 - INFO - Socket connected: <socket.socket fd=2424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53903), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:15:59,455 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2A2B0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2A2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:15:59,458 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2A2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:15:59,458 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2A2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:15:59,458 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2A2B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:15:59,458 - INFO - Created channel=1
+2025-05-13 18:15:59,496 - INFO - 192.168.1.8 - - [13/May/2025 18:15:59] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:16:08,104 - INFO - 数据库配置成功加载
+2025-05-13 18:16:08,259 - INFO - MySQL数据库连接成功
+2025-05-13 18:16:08,411 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:16:08,411 - INFO - Socket connected: <socket.socket fd=2452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53924), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:16:08,411 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63340>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:16:08,414 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:16:08,414 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:16:08,415 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:16:08,415 - INFO - Created channel=1
+2025-05-13 18:16:08,452 - INFO - 192.168.1.8 - - [13/May/2025 18:16:08] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-13 18:18:07,708 - INFO - 数据库配置成功加载
+2025-05-13 18:18:07,857 - INFO - MySQL数据库连接成功
+2025-05-13 18:18:08,014 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:18:08,015 - INFO - Socket connected: <socket.socket fd=2408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53977), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:18:08,016 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2AF70>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2AF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:18:08,018 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2AF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:08,019 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2AF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:08,019 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B2AF70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:08,019 - INFO - Created channel=1
+2025-05-13 18:18:08,094 - INFO - 192.168.1.8 - - [13/May/2025 18:18:08] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 18:18:16,750 - INFO - 数据库配置成功加载
+2025-05-13 18:18:16,906 - INFO - MySQL数据库连接成功
+2025-05-13 18:18:17,059 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:18:17,060 - INFO - Socket connected: <socket.socket fd=2624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53986), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:18:17,060 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63C70>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63C70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:18:17,062 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63C70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:17,062 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63C70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:17,063 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B63C70> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:17,063 - INFO - Created channel=1
+2025-05-13 18:18:17,138 - INFO - 192.168.1.8 - - [13/May/2025 18:18:17] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-13 18:18:44,958 - INFO - 数据库配置成功加载
+2025-05-13 18:18:45,108 - INFO - MySQL数据库连接成功
+2025-05-13 18:18:45,475 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:18:45,476 - INFO - Socket connected: <socket.socket fd=2592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54029), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:18:45,476 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B6F6D0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B6F6D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:18:45,480 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B6F6D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:45,480 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B6F6D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:45,480 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B6F6D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:18:45,481 - INFO - Created channel=1
+2025-05-13 18:18:45,518 - INFO - 192.168.1.8 - - [13/May/2025 18:18:45] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-13 18:19:58,919 - INFO - 数据库配置成功加载
+2025-05-13 18:19:59,068 - INFO - MySQL数据库连接成功
+2025-05-13 18:19:59,224 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:19:59,225 - INFO - Socket connected: <socket.socket fd=2640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54058), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:19:59,226 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B79310>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B79310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:19:59,232 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B79310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:19:59,232 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B79310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:19:59,232 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000232A1B79310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:19:59,232 - INFO - Created channel=1
+2025-05-13 18:19:59,271 - INFO - 192.168.1.8 - - [13/May/2025 18:19:59] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:31:46,436 - INFO - 数据库配置成功加载
+2025-05-13 18:31:46,674 - INFO - MySQL数据库连接成功
+2025-05-13 18:31:46,786 - INFO - 192.168.1.8 - - [13/May/2025 18:31:46] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 18:33:37,084 - INFO - 数据库配置成功加载
+2025-05-13 18:33:37,234 - INFO - MySQL数据库连接成功
+2025-05-13 18:33:37,486 - INFO - 192.168.1.8 - - [13/May/2025 18:33:37] "POST /api/admin/local/equipment_db/initControl HTTP/1.1" 200 -
+2025-05-13 18:41:58,095 - INFO - 数据库配置成功加载
+2025-05-13 18:41:58,310 - INFO - MySQL数据库连接成功
+2025-05-13 18:41:58,540 - INFO - 192.168.1.8 - - [13/May/2025 18:41:58] "POST /api/admin/local/equipment_db/initData HTTP/1.1" 200 -
+2025-05-13 18:42:15,152 - INFO - 数据库配置成功加载
+2025-05-13 18:42:15,310 - INFO - MySQL数据库连接成功
+2025-05-13 18:42:15,462 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:42:15,463 - INFO - Socket connected: <socket.socket fd=2660, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54486), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:42:15,463 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FB64AF0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FB64AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:42:15,466 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FB64AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:42:15,466 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FB64AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:42:15,466 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FB64AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:42:15,466 - INFO - Created channel=1
+2025-05-13 18:42:15,541 - INFO - 192.168.1.8 - - [13/May/2025 18:42:15] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 18:42:20,610 - INFO - 数据库配置成功加载
+2025-05-13 18:42:20,760 - INFO - MySQL数据库连接成功
+2025-05-13 18:42:20,916 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:42:20,916 - INFO - Socket connected: <socket.socket fd=2352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54497), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:42:20,917 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7400>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:42:20,919 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:42:20,919 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:42:20,919 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:42:20,919 - INFO - Created channel=1
+2025-05-13 18:42:20,994 - INFO - 192.168.1.8 - - [13/May/2025 18:42:20] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-13 18:45:53,908 - INFO - 数据库配置成功加载
+2025-05-13 18:45:54,093 - INFO - MySQL数据库连接成功
+2025-05-13 18:45:54,246 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:45:54,246 - INFO - Socket connected: <socket.socket fd=444, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54679), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:45:54,247 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6C40>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:45:54,249 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:45:54,249 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:45:54,249 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6C40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:45:54,249 - INFO - Created channel=1
+2025-05-13 18:45:54,287 - INFO - 192.168.1.8 - - [13/May/2025 18:45:54] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:45:54,291 - INFO - 数据库配置成功加载
+2025-05-13 18:45:54,436 - INFO - MySQL数据库连接成功
+2025-05-13 18:45:54,590 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:45:54,591 - INFO - Socket connected: <socket.socket fd=2808, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54686), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:45:54,592 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7AF0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:45:54,596 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:45:54,596 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:45:54,596 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7AF0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:45:54,597 - INFO - Created channel=1
+2025-05-13 18:45:54,635 - INFO - 192.168.1.8 - - [13/May/2025 18:45:54] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-13 18:47:39,357 - INFO - 数据库配置成功加载
+2025-05-13 18:47:39,512 - INFO - MySQL数据库连接成功
+2025-05-13 18:47:39,673 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:47:39,674 - INFO - Socket connected: <socket.socket fd=2608, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54740), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:47:39,675 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCEE790>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCEE790> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:47:39,679 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCEE790> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:39,679 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCEE790> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:39,679 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCEE790> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:39,679 - INFO - Created channel=1
+2025-05-13 18:47:39,758 - INFO - 192.168.1.8 - - [13/May/2025 18:47:39] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 18:47:39,782 - INFO - 数据库配置成功加载
+2025-05-13 18:47:39,927 - INFO - MySQL数据库连接成功
+2025-05-13 18:47:40,079 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:47:40,080 - INFO - Socket connected: <socket.socket fd=2436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54748), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:47:40,080 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCF9400>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCF9400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:47:40,099 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCF9400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:40,099 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCF9400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:40,099 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCF9400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:40,100 - INFO - Created channel=1
+2025-05-13 18:47:40,175 - INFO - 192.168.1.8 - - [13/May/2025 18:47:40] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-13 18:47:50,921 - INFO - 数据库配置成功加载
+2025-05-13 18:47:51,111 - INFO - MySQL数据库连接成功
+2025-05-13 18:47:51,258 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:47:51,258 - INFO - Socket connected: <socket.socket fd=2808, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54764), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:47:51,258 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7CD0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7CD0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:47:51,260 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7CD0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:51,260 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7CD0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:51,260 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCE7CD0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:51,261 - INFO - Created channel=1
+2025-05-13 18:47:51,298 - INFO - 192.168.1.8 - - [13/May/2025 18:47:51] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:47:51,326 - INFO - 数据库配置成功加载
+2025-05-13 18:47:51,470 - INFO - MySQL数据库连接成功
+2025-05-13 18:47:51,623 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:47:51,624 - INFO - Socket connected: <socket.socket fd=868, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54771), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:47:51,624 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6BB0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:47:51,629 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:51,629 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:51,629 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000002D90FCB6BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:47:51,629 - INFO - Created channel=1
+2025-05-13 18:47:51,668 - INFO - 192.168.1.8 - - [13/May/2025 18:47:51] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-13 18:49:58,300 - INFO - 数据库配置成功加载
+2025-05-13 18:49:58,458 - INFO - MySQL数据库连接成功
+2025-05-13 18:49:58,617 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:49:58,618 - INFO - Socket connected: <socket.socket fd=2640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54843), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:49:58,618 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DB1C0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DB1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:49:58,620 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DB1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:49:58,620 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DB1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:49:58,620 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DB1C0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:49:58,620 - INFO - Created channel=1
+2025-05-13 18:49:58,695 - INFO - 192.168.1.8 - - [13/May/2025 18:49:58] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-13 18:49:58,698 - INFO - 数据库配置成功加载
+2025-05-13 18:49:58,844 - INFO - MySQL数据库连接成功
+2025-05-13 18:49:58,996 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:49:58,997 - INFO - Socket connected: <socket.socket fd=2548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54850), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:49:58,998 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515280>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:49:59,003 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:49:59,004 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:49:59,004 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515280> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:49:59,004 - INFO - Created channel=1
+2025-05-13 18:49:59,079 - INFO - 192.168.1.8 - - [13/May/2025 18:49:59] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-13 18:50:15,568 - INFO - 数据库配置成功加载
+2025-05-13 18:50:15,722 - INFO - MySQL数据库连接成功
+2025-05-13 18:50:15,924 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:50:15,925 - INFO - Socket connected: <socket.socket fd=2672, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54891), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:50:15,925 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DBCA0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DBCA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:50:15,928 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DBCA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:50:15,928 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DBCA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:50:15,928 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B04DBCA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:50:15,928 - INFO - Created channel=1
+2025-05-13 18:50:15,965 - INFO - 192.168.1.8 - - [13/May/2025 18:50:15] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-13 18:50:15,989 - INFO - 数据库配置成功加载
+2025-05-13 18:50:16,135 - INFO - MySQL数据库连接成功
+2025-05-13 18:50:16,662 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-13 18:50:16,662 - INFO - Socket connected: <socket.socket fd=2420, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 54898), raddr=('192.168.1.8', 5672)>
+2025-05-13 18:50:16,663 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515C10>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515C10> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-13 18:50:16,665 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515C10> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:50:16,665 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515C10> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:50:16,665 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000238B0515C10> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-13 18:50:16,666 - INFO - Created channel=1
+2025-05-13 18:50:16,702 - INFO - 192.168.1.8 - - [13/May/2025 18:50:16] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-15 18:07:23,321 - INFO - 数据库配置成功加载
+2025-05-15 18:07:23,476 - INFO - MySQL数据库连接成功
+2025-05-15 18:07:23,668 - INFO - 192.168.1.8 - - [15/May/2025 18:07:23] "POST /api/admin/local/equipment_db/initControl HTTP/1.1" 200 -
+2025-05-15 18:08:12,273 - INFO - 数据库配置成功加载
+2025-05-15 18:08:12,432 - INFO - MySQL数据库连接成功
+2025-05-15 18:08:12,663 - INFO - 192.168.1.8 - - [15/May/2025 18:08:12] "POST /api/admin/local/equipment_db/initControl HTTP/1.1" 200 -
+2025-05-15 18:10:28,562 - INFO - 数据库配置成功加载
+2025-05-15 18:10:29,748 - INFO - MySQL数据库连接成功
+2025-05-15 18:10:29,905 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-15 18:10:29,906 - INFO - Socket connected: <socket.socket fd=2792, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65236), raddr=('192.168.1.8', 5672)>
+2025-05-15 18:10:29,907 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F415FA0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F415FA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-15 18:10:29,962 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F415FA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-15 18:10:29,962 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F415FA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-15 18:10:29,962 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F415FA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-15 18:10:29,962 - INFO - Created channel=1
+2025-05-15 18:10:30,058 - INFO - 192.168.1.8 - - [15/May/2025 18:10:30] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-15 18:10:59,319 - INFO - 数据库配置成功加载
+2025-05-15 18:10:59,490 - INFO - MySQL数据库连接成功
+2025-05-15 18:10:59,645 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-15 18:10:59,646 - INFO - Socket connected: <socket.socket fd=2896, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 65300), raddr=('192.168.1.8', 5672)>
+2025-05-15 18:10:59,646 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F596250>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F596250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-15 18:10:59,652 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F596250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-15 18:10:59,652 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F596250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-15 18:10:59,652 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001909F596250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-15 18:10:59,652 - INFO - Created channel=1
+2025-05-15 18:10:59,803 - INFO - 192.168.1.8 - - [15/May/2025 18:10:59] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 09:49:26,254 - INFO - 数据库配置成功加载
+2025-05-16 09:49:26,476 - INFO - MySQL数据库连接成功
+2025-05-16 09:49:26,636 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 09:49:26,637 - INFO - Socket connected: <socket.socket fd=2776, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53032), raddr=('192.168.1.8', 5672)>
+2025-05-16 09:49:26,637 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0A340>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0A340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 09:49:27,047 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0A340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:49:27,047 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0A340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:49:27,047 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0A340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:49:27,047 - INFO - Created channel=1
+2025-05-16 09:49:27,227 - INFO - 192.168.1.8 - - [16/May/2025 09:49:27] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 09:49:27,250 - INFO - 数据库配置成功加载
+2025-05-16 09:49:27,395 - INFO - MySQL数据库连接成功
+2025-05-16 09:49:27,550 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 09:49:27,551 - INFO - Socket connected: <socket.socket fd=2772, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53039), raddr=('192.168.1.8', 5672)>
+2025-05-16 09:49:27,552 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AF40>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 09:49:27,555 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:49:27,556 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:49:27,556 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:49:27,556 - INFO - Created channel=1
+2025-05-16 09:49:27,631 - INFO - 192.168.1.8 - - [16/May/2025 09:49:27] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 09:56:12,655 - INFO - 数据库配置成功加载
+2025-05-16 09:56:12,805 - INFO - MySQL数据库连接成功
+2025-05-16 09:56:12,956 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 09:56:12,957 - INFO - Socket connected: <socket.socket fd=2912, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53589), raddr=('192.168.1.8', 5672)>
+2025-05-16 09:56:12,957 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AFA0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 09:56:12,959 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:56:12,959 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:56:12,959 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D0AFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:56:12,959 - INFO - Created channel=1
+2025-05-16 09:56:12,996 - INFO - 192.168.1.8 - - [16/May/2025 09:56:12] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 09:56:13,002 - INFO - 数据库配置成功加载
+2025-05-16 09:56:13,152 - INFO - MySQL数据库连接成功
+2025-05-16 09:56:13,302 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 09:56:13,302 - INFO - Socket connected: <socket.socket fd=2972, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53596), raddr=('192.168.1.8', 5672)>
+2025-05-16 09:56:13,302 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43CA0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 09:56:13,304 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:56:13,304 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:56:13,304 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 09:56:13,304 - INFO - Created channel=1
+2025-05-16 09:56:13,341 - INFO - 192.168.1.8 - - [16/May/2025 09:56:13] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-16 10:01:10,460 - INFO - 数据库配置成功加载
+2025-05-16 10:01:10,615 - INFO - MySQL数据库连接成功
+2025-05-16 10:01:10,769 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:01:10,769 - INFO - Socket connected: <socket.socket fd=1616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53952), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:01:10,770 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50610>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50610> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:01:10,772 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50610> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:01:10,772 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50610> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:01:10,772 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50610> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:01:10,772 - INFO - Created channel=1
+2025-05-16 10:01:10,845 - INFO - 192.168.1.8 - - [16/May/2025 10:01:10] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 10:01:10,850 - INFO - 数据库配置成功加载
+2025-05-16 10:01:11,000 - INFO - MySQL数据库连接成功
+2025-05-16 10:01:11,153 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:01:11,153 - INFO - Socket connected: <socket.socket fd=3048, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 53959), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:01:11,154 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59250>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:01:11,157 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:01:11,158 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:01:11,158 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59250> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:01:11,158 - INFO - Created channel=1
+2025-05-16 10:01:11,231 - INFO - 192.168.1.8 - - [16/May/2025 10:01:11] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 10:18:47,331 - INFO - 数据库配置成功加载
+2025-05-16 10:18:47,485 - INFO - MySQL数据库连接成功
+2025-05-16 10:18:47,635 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:18:47,635 - INFO - Socket connected: <socket.socket fd=2964, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56002), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:18:47,636 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC72B0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC72B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:18:47,638 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC72B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:47,638 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC72B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:47,638 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC72B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:47,638 - INFO - Created channel=1
+2025-05-16 10:18:47,675 - INFO - 192.168.1.8 - - [16/May/2025 10:18:47] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 10:18:47,689 - INFO - 数据库配置成功加载
+2025-05-16 10:18:47,833 - INFO - MySQL数据库连接成功
+2025-05-16 10:18:48,104 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:18:48,104 - INFO - Socket connected: <socket.socket fd=2924, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56011), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:18:48,104 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59430>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59430> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:18:48,106 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59430> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:48,107 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59430> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:48,107 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59430> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:48,107 - INFO - Created channel=1
+2025-05-16 10:18:48,143 - INFO - 192.168.1.8 - - [16/May/2025 10:18:48] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-16 10:18:52,370 - INFO - 数据库配置成功加载
+2025-05-16 10:18:52,520 - INFO - MySQL数据库连接成功
+2025-05-16 10:18:52,678 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:18:52,679 - INFO - Socket connected: <socket.socket fd=2620, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56027), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:18:52,680 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59F40>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59F40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:18:52,683 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59F40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:52,683 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59F40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:52,683 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59F40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:52,683 - INFO - Created channel=1
+2025-05-16 10:18:52,757 - INFO - 192.168.1.8 - - [16/May/2025 10:18:52] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 10:18:52,760 - INFO - 数据库配置成功加载
+2025-05-16 10:18:52,911 - INFO - MySQL数据库连接成功
+2025-05-16 10:18:53,067 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:18:53,067 - INFO - Socket connected: <socket.socket fd=2428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56034), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:18:53,068 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D439D0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D439D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:18:53,073 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D439D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:53,073 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D439D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:53,073 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D439D0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:18:53,074 - INFO - Created channel=1
+2025-05-16 10:18:53,150 - INFO - 192.168.1.8 - - [16/May/2025 10:18:53] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 10:20:23,360 - INFO - 数据库配置成功加载
+2025-05-16 10:20:23,513 - INFO - MySQL数据库连接成功
+2025-05-16 10:20:23,667 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:20:23,667 - INFO - Socket connected: <socket.socket fd=3028, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56228), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:20:23,668 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59880>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59880> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:20:23,672 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59880> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:23,672 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59880> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:23,672 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59880> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:23,672 - INFO - Created channel=1
+2025-05-16 10:20:23,710 - INFO - 192.168.1.8 - - [16/May/2025 10:20:23] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 10:20:23,723 - INFO - 数据库配置成功加载
+2025-05-16 10:20:23,873 - INFO - MySQL数据库连接成功
+2025-05-16 10:20:24,028 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:20:24,029 - INFO - Socket connected: <socket.socket fd=3016, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56235), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:20:24,029 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60130>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60130> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:20:24,034 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60130> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:24,034 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60130> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:24,034 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60130> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:24,034 - INFO - Created channel=1
+2025-05-16 10:20:24,072 - INFO - 192.168.1.8 - - [16/May/2025 10:20:24] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-16 10:20:31,606 - INFO - 数据库配置成功加载
+2025-05-16 10:20:31,755 - INFO - MySQL数据库连接成功
+2025-05-16 10:20:31,912 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:20:31,913 - INFO - Socket connected: <socket.socket fd=3120, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56255), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:20:31,913 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60BB0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:20:31,916 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:31,917 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:31,917 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60BB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:31,917 - INFO - Created channel=1
+2025-05-16 10:20:31,992 - INFO - 192.168.1.8 - - [16/May/2025 10:20:31] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 10:20:32,015 - INFO - 数据库配置成功加载
+2025-05-16 10:20:32,166 - INFO - MySQL数据库连接成功
+2025-05-16 10:20:32,319 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:20:32,320 - INFO - Socket connected: <socket.socket fd=2772, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56264), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:20:32,320 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59070>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59070> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:20:32,324 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59070> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:32,324 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59070> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:32,324 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59070> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:20:32,324 - INFO - Created channel=1
+2025-05-16 10:20:32,398 - INFO - 192.168.1.8 - - [16/May/2025 10:20:32] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 10:24:12,300 - INFO - 数据库配置成功加载
+2025-05-16 10:24:12,456 - INFO - MySQL数据库连接成功
+2025-05-16 10:24:12,609 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:24:12,610 - INFO - Socket connected: <socket.socket fd=3012, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56732), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:24:12,611 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50310>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:24:12,615 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:12,615 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:12,615 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D50310> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:12,615 - INFO - Created channel=1
+2025-05-16 10:24:12,653 - INFO - 192.168.1.8 - - [16/May/2025 10:24:12] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 10:24:12,679 - INFO - 数据库配置成功加载
+2025-05-16 10:24:12,828 - INFO - MySQL数据库连接成功
+2025-05-16 10:24:12,979 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:24:12,980 - INFO - Socket connected: <socket.socket fd=3000, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56739), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:24:12,981 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D432B0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D432B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:24:12,984 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D432B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:12,984 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D432B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:12,984 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D432B0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:12,984 - INFO - Created channel=1
+2025-05-16 10:24:13,022 - INFO - 192.168.1.8 - - [16/May/2025 10:24:13] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-16 10:24:19,211 - INFO - 数据库配置成功加载
+2025-05-16 10:24:19,361 - INFO - MySQL数据库连接成功
+2025-05-16 10:24:19,516 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:24:19,517 - INFO - Socket connected: <socket.socket fd=3108, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56755), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:24:19,518 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B340>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:24:19,521 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:19,521 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:19,522 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:19,522 - INFO - Created channel=1
+2025-05-16 10:24:19,597 - INFO - 192.168.1.8 - - [16/May/2025 10:24:19] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 10:24:19,619 - INFO - 数据库配置成功加载
+2025-05-16 10:24:19,769 - INFO - MySQL数据库连接成功
+2025-05-16 10:24:19,929 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:24:19,929 - INFO - Socket connected: <socket.socket fd=2756, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56762), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:24:19,930 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC7400>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:24:19,935 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:19,935 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:19,935 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05CC7400> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:24:19,935 - INFO - Created channel=1
+2025-05-16 10:24:20,009 - INFO - 192.168.1.8 - - [16/May/2025 10:24:20] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 10:25:51,260 - INFO - 数据库配置成功加载
+2025-05-16 10:25:51,411 - INFO - MySQL数据库连接成功
+2025-05-16 10:25:51,562 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:25:51,562 - INFO - Socket connected: <socket.socket fd=2600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 56999), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:25:51,563 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59520>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:25:51,565 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:51,565 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:51,565 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:51,565 - INFO - Created channel=1
+2025-05-16 10:25:51,602 - INFO - 192.168.1.8 - - [16/May/2025 10:25:51] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 10:25:51,619 - INFO - 数据库配置成功加载
+2025-05-16 10:25:51,770 - INFO - MySQL数据库连接成功
+2025-05-16 10:25:51,928 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:25:51,929 - INFO - Socket connected: <socket.socket fd=952, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57006), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:25:51,930 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60B20>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60B20> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:25:51,936 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60B20> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:51,936 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60B20> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:51,936 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60B20> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:51,936 - INFO - Created channel=1
+2025-05-16 10:25:51,975 - INFO - 192.168.1.8 - - [16/May/2025 10:25:51] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-16 10:25:56,257 - INFO - 数据库配置成功加载
+2025-05-16 10:25:56,407 - INFO - MySQL数据库连接成功
+2025-05-16 10:25:56,562 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:25:56,563 - INFO - Socket connected: <socket.socket fd=2868, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57025), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:25:56,563 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B580>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B580> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:25:56,568 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B580> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:56,569 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B580> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:56,569 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D6B580> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:56,569 - INFO - Created channel=1
+2025-05-16 10:25:56,643 - INFO - 192.168.1.8 - - [16/May/2025 10:25:56] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 10:25:56,651 - INFO - 数据库配置成功加载
+2025-05-16 10:25:56,799 - INFO - MySQL数据库连接成功
+2025-05-16 10:25:56,955 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:25:56,956 - INFO - Socket connected: <socket.socket fd=2832, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57032), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:25:56,956 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60520>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:25:56,959 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:56,959 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:56,959 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D60520> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:25:56,960 - INFO - Created channel=1
+2025-05-16 10:25:57,035 - INFO - 192.168.1.8 - - [16/May/2025 10:25:57] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 10:29:12,007 - INFO - 数据库配置成功加载
+2025-05-16 10:29:12,163 - INFO - MySQL数据库连接成功
+2025-05-16 10:29:12,320 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:29:12,321 - INFO - Socket connected: <socket.socket fd=3200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57472), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:29:12,322 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43EB0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43EB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:29:12,330 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43EB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:29:12,330 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43EB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:29:12,330 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D43EB0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:29:12,330 - INFO - Created channel=1
+2025-05-16 10:29:12,369 - INFO - 192.168.1.8 - - [16/May/2025 10:29:12] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 10:29:12,384 - INFO - 数据库配置成功加载
+2025-05-16 10:29:12,531 - INFO - MySQL数据库连接成功
+2025-05-16 10:29:12,684 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:29:12,685 - INFO - Socket connected: <socket.socket fd=3252, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57479), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:29:12,686 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59D60>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59D60> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:29:12,691 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59D60> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:29:12,691 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59D60> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:29:12,691 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000021E05D59D60> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:29:12,691 - INFO - Created channel=1
+2025-05-16 10:29:12,730 - INFO - 192.168.1.8 - - [16/May/2025 10:29:12] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
+2025-05-16 10:30:27,753 - INFO - 数据库配置成功加载
+2025-05-16 10:30:27,909 - INFO - MySQL数据库连接成功
+2025-05-16 10:30:28,061 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:30:28,062 - INFO - Socket connected: <socket.socket fd=2756, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57525), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:30:28,062 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBA340>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBA340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:30:28,064 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBA340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:30:28,064 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBA340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:30:28,064 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBA340> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:30:28,065 - INFO - Created channel=1
+2025-05-16 10:30:28,139 - INFO - 192.168.1.8 - - [16/May/2025 10:30:28] "POST /api/admin/local/equipment_db/startControl HTTP/1.1" 200 -
+2025-05-16 10:30:28,146 - INFO - 数据库配置成功加载
+2025-05-16 10:30:28,291 - INFO - MySQL数据库连接成功
+2025-05-16 10:30:28,444 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:30:28,446 - INFO - Socket connected: <socket.socket fd=2892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57532), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:30:28,447 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAF40>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:30:28,449 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:30:28,450 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:30:28,450 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAF40> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:30:28,450 - INFO - Created channel=1
+2025-05-16 10:30:28,524 - INFO - 192.168.1.8 - - [16/May/2025 10:30:28] "POST /api/admin/local/equipment_db/startData HTTP/1.1" 200 -
+2025-05-16 10:31:33,295 - INFO - 数据库配置成功加载
+2025-05-16 10:31:34,479 - INFO - MySQL数据库连接成功
+2025-05-16 10:31:34,634 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:31:34,634 - INFO - Socket connected: <socket.socket fd=776, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57654), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:31:34,635 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAFA0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:31:34,636 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:31:34,637 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:31:34,637 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BBAFA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:31:34,637 - INFO - Created channel=1
+2025-05-16 10:31:34,674 - INFO - 192.168.1.8 - - [16/May/2025 10:31:34] "POST /api/admin/local/equipment_db/stopControl HTTP/1.1" 200 -
+2025-05-16 10:31:34,691 - INFO - 数据库配置成功加载
+2025-05-16 10:31:34,840 - INFO - MySQL数据库连接成功
+2025-05-16 10:31:34,996 - INFO - Pika version 1.3.2 connecting to ('192.168.1.8', 5672)
+2025-05-16 10:31:34,996 - INFO - Socket connected: <socket.socket fd=2552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.1.8', 57661), raddr=('192.168.1.8', 5672)>
+2025-05-16 10:31:34,997 - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BF3CA0>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BF3CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>).
+2025-05-16 10:31:35,002 - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BF3CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:31:35,002 - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BF3CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:31:35,002 - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000023E74BF3CA0> params=<ConnectionParameters host=192.168.1.8 port=5672 virtual_host=tunnel_vh ssl=False>>
+2025-05-16 10:31:35,002 - INFO - Created channel=1
+2025-05-16 10:31:35,039 - INFO - 192.168.1.8 - - [16/May/2025 10:31:35] "POST /api/admin/local/equipment_db/stopData HTTP/1.1" 200 -
